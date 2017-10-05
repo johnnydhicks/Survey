@@ -12,6 +12,7 @@
 		38BC56C31F868DB7000DE15D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38BC56C21F868DB7000DE15D /* Assets.xcassets */; };
 		38BC56C61F868DB7000DE15D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38BC56C41F868DB7000DE15D /* LaunchScreen.storyboard */; };
 		38BC56D31F869302000DE15D /* Survey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BC56D21F869302000DE15D /* Survey.swift */; };
+		38BC56D51F869E46000DE15D /* EmojiController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BC56D41F869E46000DE15D /* EmojiController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		38BC56C51F868DB7000DE15D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		38BC56C71F868DB7000DE15D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38BC56D21F869302000DE15D /* Survey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Survey.swift; sourceTree = "<group>"; };
+		38BC56D41F869E46000DE15D /* EmojiController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				38BC56D21F869302000DE15D /* Survey.swift */,
+				38BC56D41F869E46000DE15D /* EmojiController.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			files = (
 				38BC56BC1F868DB7000DE15D /* AppDelegate.swift in Sources */,
 				38BC56D31F869302000DE15D /* Survey.swift in Sources */,
+				38BC56D51F869E46000DE15D /* EmojiController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
